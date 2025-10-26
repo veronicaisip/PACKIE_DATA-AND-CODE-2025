@@ -30,14 +30,14 @@ Project is created with:
 ## Setup
 There are two ways to run the file. Ensure all required modules are installed first Python, Flask and Tkinter
 
-1. (Recommended) Download the code file, open code within Microsoft Visual Studio Code and run it. Application opens on your main desktop.
+1. (Recommended) Download the code file or copy, open or paste code within Microsoft Visual Studio Code and run it. Application opens on your main desktop.
 
 2. Download code file, ensure it is in an accessible folder. Run the following script in terminal:
 
 ```
 python3 PACKIE.py
 ```
-Tkinter Interface should open, while Flask runs in the background locally. (If this second method doesn't work please refer to 1.) 
+Tkinter interface should open, while Flask runs in the background locally. (If this second method doesn't work please refer to 1.) 
 
 ## References
 * Amos, D. (2024, December 7). Python GUI Programming: Your Tkinter Tutorial. RealPython. https://realpython.com/python-gui-tkinter/ 
