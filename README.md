@@ -2,12 +2,15 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Features] (#features)
+* [General info](#features)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
 ## General info
 PACKIE is a Python-based travel packing list generator designed to help users prepare for trips by creating a customised list based on destination, weather type, and travel dates. The project integrates Flask as the backend and Tkinter as the GUI, running together through the threading module within a single file. Creating a simple desktop application ready for immediate use.  
+
+## Features 
+
 	
 ## Technologies
 Project is created with:
