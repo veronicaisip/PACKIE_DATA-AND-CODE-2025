@@ -1,4 +1,4 @@
-# PACKIE_DATA-AND-CODE-2025
+# PACKIE_DATA-AND-CODE-2025 (Veronica Isip) 
 
 ## Table of contents
 * [General info](#general-info)
